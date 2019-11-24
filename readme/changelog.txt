@@ -1,0 +1,34 @@
+1.0.5 - Dec 15, 2016
+* Update assets:
+	* Clipboard
+* Fixed data validation issue
+* Fixed mega menu issue with WP 4.7
+* One-click demo importer
+
+1.0.4 - Nov 14, 2016
+* Theme test unit passed
+* Removed custom social profile links for author
+
+1.0.3 - Nov 2, 2016
+* Updated ACF plugin
+* Updated TGMPA library
+* Updated assets:
+  * FitVids
+  * Font Awesome
+  * Normalize.css
+  * Flexslider
+  * Clipboard
+  * Slicknav
+* All theme text strings are properly escaped.
+* Changed `dirname( __FILE__ )` with `get_template_directory_uri`
+* Added theme prefix in `entry-views.php` & `theme-layouts.php`
+* Fixed search form alignment issue
+
+1.0.2 - April 8, 2016
+* Update ACF
+
+1.0.1 - April 5, 2016
+* Fixed responsive issue
+
+1.0.0 - March 28, 2016
+* Initial release

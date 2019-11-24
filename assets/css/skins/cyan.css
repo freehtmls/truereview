@@ -1,0 +1,45 @@
+.menu-secondary-container,
+.widget-title::after,
+.pagination .page-numbers.current,
+.pagination .page-numbers:hover,
+.menu-secondary-items .sub-menu a:hover,
+blockquote {
+	border-color: #00BCD4;
+}
+
+.searchform .submit-field,
+.pagination .page-numbers.current,
+.pagination .page-numbers:hover,
+.widget_newsletter button,
+.author-badge,
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+.button,
+.point-type .review-bar .bar,
+.percentage-type .review-bar .bar {
+	background-color: #00BCD4;
+}
+
+a:hover,
+.entry-title a:hover,
+.entry-comment a:hover,
+.widget a:hover,
+.breaking-news a:hover,
+.menu-primary-items a:hover,
+.entry-comment a,
+.site-info a:hover,
+.site-title a:hover,
+#menu-primary-items .mega-links a:hover,
+#menu-secondary-items .mega-links a:hover,
+.social-icons a:hover,
+.entry-content a,
+.post-pagination .post-detail a:hover,
+.author-bio .name a:hover,
+.author-bio .author-social a:hover,
+.logged-in-as a,
+.entry-byline a,
+.panel-grid .entry-comment a {
+	color: #00BCD4;
+}
